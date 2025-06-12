@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1KDa9aIvpRMS4-4oJ2_OT9Sul-t9Rmwbt/view?usp=sharing"  />
+  <img height="200" src="connectFourAd.png"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1GHrzmniiS9XAh26kGQIb3NF6-jaeQpz9/view?usp=sharing"  />
+  <img height="150" src="connectFourDemoGif.gif"  />
 </div>
 
 ###
